@@ -1,0 +1,12 @@
+.page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100svh;
+}
+
+.page h1 {
+  font-family: var(--font-geist-sans);
+  font-size: 48px;
+  font-weight: 700;
+}
